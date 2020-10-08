@@ -14,11 +14,7 @@ Some Linux distributions, for example Debian based distributions (Ubuntu, etc) d
 
 On Windows and Mac OS it seems that Python-UNO is installed by default, so there shouldn't be a problem with these Operation Systems.
 
-In any case, if you get a message like the one that follows, please contact me and I will try to help.
-
-Error while installing extension Ancient Greek Language.
-The error message is:
-ImplementationRegistration::registerImplementation() - The service com.sun.star.loader.Python cannot be instantiated
+...
 
 After downloading AncientGreek-x.x.oxt (x.x is the version number) browse to its save location and double click on it. LibreOffice (or OpenOffice) will open and the Extension Manager will be executed.
 
