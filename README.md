@@ -3,7 +3,7 @@
 This is an **unofficial** backup of the full latest version of the AncientGreek plugin for LibreOffice & OpenOffice (with documentation):
 https://members.hellug.gr/sng/ancientgreekoxt/index.html
 
-Development of the plugin seems to have stagnated over the past couple of years, so creating this repository is a matter of digital preservation. If the project were to close down entirely, that would be a tragic loss for us scholars. Yet as long as that website remains and the official download methods persist, those should be used instead. 
+Development of the plugin seems to have stagnated over the past couple of years, so creating this repository is a matter of digital preservation. If the project were to close down entirely, that would be a tragic loss for us scholars. Yet as long as the official download methods persist, those should be used instead. 
 
 ## Installation instructions (copied from https://members.hellug.gr/sng/ancientgreekoxt/download.html#install):
 
