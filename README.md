@@ -5,7 +5,8 @@ https://members.hellug.gr/sng/ancientgreekoxt/index.html
 
 Development of the plugin seems to have stagnated over the past couple of years, so creating this repository is a matter of digital preservation. If the project were to close down entirely, that would be a tragic loss for us scholars. Yet as long as the official download methods persist, those should be used instead. 
 
-## Installation instructions (copied from https://members.hellug.gr/sng/ancientgreekoxt/download.html#install):
+## Installation instructions
+(copied from https://members.hellug.gr/sng/ancientgreekoxt/download.html#install)
 
 AncientGreek uses Python code in order to implement some of its features. This means that both OpenOffice and LibreOffice should be installed with its "Python-UNO bridge" (the "link" between LO/AOO and Python).
 
